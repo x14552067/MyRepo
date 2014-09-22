@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My Potatoes are Awesome
+=======
+my potatoes are awesome
+>>>>>>> 60d953fe016d56840c573469e0a57f0150c0d6af
